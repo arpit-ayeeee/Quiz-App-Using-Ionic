@@ -1,0 +1,7 @@
+{
+  "name": "DestQuiz",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
